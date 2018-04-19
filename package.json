@@ -1,0 +1,8 @@
+{
+  "name": "react-fullstack-example",
+  "version": "0.0.1",
+  "description": "React.js and Node.js fullstack application example",
+  "main": "index.js",
+  "author": "Anuradha Dunuhappawa",
+  "license": "MIT"
+}
