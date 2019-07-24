@@ -1,4 +1,5 @@
-# React Node Fullstack Example
+# React Node Fullstack Project
+
 ## Overview
 
 ## Technology
