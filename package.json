@@ -1,8 +1,30 @@
 {
-  "name": "react-fullstack-example",
+  "name": "react-fullstack-project",
   "version": "0.0.1",
   "description": "React.js and Node.js fullstack application example",
   "main": "index.js",
   "author": "Anuradha Dunuhappawa",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joedunu/react-fullstack-project.git"
+  },
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.0.15",
+    "passport": "^0.4.0",
+    "passport-google-oauth20": "^2.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "eslint-config-standard": "^13.0.1",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^9.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "nodemon": "^1.17.3"
+  }
 }
