@@ -1,0 +1,27 @@
+{
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "standard"
+    ],
+    "globals": {
+      "it":true,
+      "fail": true,
+      "console":true,
+      "protractor": true,
+      "browser": true,
+      "by": true,
+      "element": true,
+      "expect": true,
+      "describe":true,
+      "xdescribe": true,
+      "assert": true,
+      "test": true,
+      "beforeEach": true,
+      "afterEach": true,
+      "beforeAll": true,
+      "afterAll": true
+    }
+  }
+  
